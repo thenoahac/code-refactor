@@ -27,7 +27,7 @@ The use of this page is intended to be a mock Landing page for a company named H
 
 -Repository URL: https://github.com/thenoahac/code-refactor
 
--Deploy URL: 
+-Deploy URL: https://thenoahac.github.io/code-refactor/
 
 ## Site Image
 
